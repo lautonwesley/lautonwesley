@@ -17,7 +17,7 @@ Automação, bots e integração de sistemas
         <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-F25278?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href = "https://www.instagram.com/bocaiuvanews/">
-        <img src = " https://custom-icon-badges.demolab.com/badge/Minas Gerais-BR-purple?style=for-the-badge&logo=location&logoColor=white" > 
+        <img src = "https://custom-icon-badges.demolab.com/badge/Minas Gerais-BR-purple?style=for-the-badge&logo=location&logoColor=white" > 
     </a>
     <a href = "https://www.youtube.com/@wesleyuzumakicripto">
         <img src = "https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCAHuk-Pb-abd2mRygxSjQgw?color=%23E05D44&label=Hardtech&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630">
