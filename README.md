@@ -12,6 +12,9 @@ Back-end com Node, Python e APIs
 Automação, bots e integração de sistemas
 🧠 Sempre aprendendo, errando, ajustando e seguindo em frente. Bora construir o futuro juntos!
 
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <p align="left">
     <a href="https://www.instagram.com/wesley_lauton_sf" > 
         <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-F25278?style=for-the-badge&logo=instagram&logoColor=white">
