@@ -13,7 +13,6 @@ Automação, bots e integração de sistemas
 🧠 Sempre aprendendo, errando, ajustando e seguindo em frente. Bora construir o futuro juntos!
 
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <p align="left">
     <a href="https://www.instagram.com/wesley_lauton_sf" > 
@@ -46,7 +45,14 @@ Automação, bots e integração de sistemas
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<i class="devicon-rust-original"></i>
+<img 
+    align="left"
+    alt="RUST"
+    title="RUST"
+    width="20px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+/>
           
 <img
     align="left"
