@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Web3/Web2`**
 
-Desenvolvedor apaixonado por tecnologia, construindo soluções web, sistemas de gestão e automações enquanto explora o universo da Web3 e blockchain.
 
-🚀 React • PostgreSQL • Linux
-🔗 Web3 • Blockchain • Smart Contracts
-⚙️ Automação e Infraestrutura
+Entusiasta de tecnologia e desenvolvimento de software.
+💻 Explorando desenvolvimento web, Linux e DevOps
+🔗 Estudando Web3 e blockchain
+🛠️ Criando projetos para aprender na prática
 
 
           
