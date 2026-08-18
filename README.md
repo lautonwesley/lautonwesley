@@ -3,13 +3,12 @@
 **`Desenvolvedor Web3/Web2`**
 
 
-Entusiasta de tecnologia e desenvolvimento de software.
-💻 Explorando desenvolvimento web, Linux e DevOps
-🔗 Estudando Web3 e blockchain
-🛠️ Criando projetos para aprender na prática
+Entusiasta de tecnologia, sempre aprendendo e colocando ideias em prática.
+💻 Desenvolvimento Web • Linux • DevOps
+🔗 Web3 • Blockchain
+🛠️ Projetos pessoais e experimentos
 
 
-          
 <p align="left">
     <a href="https://www.instagram.com/wesley_lauton_sf" > 
         <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-F25278?style=for-the-badge&logo=instagram&logoColor=white">
