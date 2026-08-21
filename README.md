@@ -3,14 +3,33 @@
 **`Desenvolvedor Web3/Web2`**
 
 
+Desenvolvedor em formação com o objetivo de me especializar em Web3,
+blockchain e aplicações descentralizadas.
 
-Sou um desenvolvedor em formação com o objetivo de me especializar em Web3, blockchain e aplicações descentralizadas.
+🚀 Minha jornada
 
-Acredito que tecnologias como blockchain, DeFi e dApps fazem parte da evolução da internet e podem contribuir para uma web mais aberta, descentralizada e com maior autonomia para os usuários.
+🦀 Fundamentos
+- Rust
+- C
+- JavaScript
 
-Atualmente, estou construindo minha base em programação e desenvolvimento de software, enquanto avanço gradualmente em direção ao ecossistema Web3.
+🌐 Desenvolvimento Web
+- HTML
+- CSS
+- React
+- TypeScript
+- Node.js
 
-🚀 Meu objetivo: me tornar um desenvolvedor especializado na construção de aplicações descentralizadas e soluções baseadas em blockchain.
+⛓️ Blockchain
+- Fundamentos de Blockchain
+- Wallets
+- Smart Contracts
+- Solidity
+- EVM
+
+🚀 Objetivo
+Me tornar um desenvolvedor especializado em Web3, DeFi e aplicações
+descentralizadas.
 
 
 <p align="left">
