@@ -1,12 +1,16 @@
-# Wesley Lauton
+#👋 Olá, eu sou Wesley!
 
 **`Desenvolvedor Web3/Web2`**
 
 
-Entusiasta de tecnologia, sempre aprendendo e colocando ideias em prática.
-💻 Desenvolvimento Web • Linux • DevOps
-🔗 Web3 • Blockchain
-🛠️ Projetos pessoais e experimentos
+
+Sou um desenvolvedor em formação com o objetivo de me especializar em Web3, blockchain e aplicações descentralizadas.
+
+Acredito que tecnologias como blockchain, DeFi e dApps fazem parte da evolução da internet e podem contribuir para uma web mais aberta, descentralizada e com maior autonomia para os usuários.
+
+Atualmente, estou construindo minha base em programação e desenvolvimento de software, enquanto avanço gradualmente em direção ao ecossistema Web3.
+
+🚀 Meu objetivo: me tornar um desenvolvedor especializado na construção de aplicações descentralizadas e soluções baseadas em blockchain.
 
 
 <p align="left">
@@ -86,39 +90,10 @@ Entusiasta de tecnologia, sempre aprendendo e colocando ideias em prática.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+
+
+
 
 <img 
     align="left" 
@@ -138,24 +113,5 @@ Entusiasta de tecnologia, sempre aprendendo e colocando ideias em prática.
 />
 
 <br/>
-<br/>
-
-## Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lautonwesley&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautonwesley&layout=compact&theme=dracula" 
-  />
 
 </p>
